@@ -1,0 +1,5 @@
+https://dl.dropboxusercontent.com/u/80256631/8188eu-20140705.tar.gz
+
+sudo insmod /lib/modules/(3.12.28+)/kernel/drivers/net/wireless/8188eu.ko
+
+https://dl.dropboxusercontent.com/u/28068602/install-8188eu.tgz
